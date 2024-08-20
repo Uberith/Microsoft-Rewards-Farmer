@@ -7,6 +7,7 @@
 .mypy_cache/
 .github/
 
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -186,3 +187,6 @@ pyrightconfig.json
 accounts.json
 sessions
 logs
+.vscode
+.mypy_cache
+.github
